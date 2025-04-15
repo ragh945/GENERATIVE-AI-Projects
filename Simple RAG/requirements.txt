@@ -1,0 +1,14 @@
+streamlit
+langchain>=0.1.13
+langchain-core>=0.1.27
+langchain-community>=0.0.34
+langchain-openai
+langchain-groq
+langchain-huggingface
+faiss-cpu
+pypdf
+python-dotenv
+tqdm
+langsmith
+transformers>=4.36.0
+protobuf<4.0.0
