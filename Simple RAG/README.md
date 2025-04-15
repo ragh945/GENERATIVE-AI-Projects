@@ -23,6 +23,6 @@ To create an AI-powered assistant that extracts, retrieves, and summarizes key i
 
 ## Deployment Screenshot : ![image](https://github.com/user-attachments/assets/93a853e5-2555-4512-8700-dbab6dab92af)
 
-## Deployment Screenshot : ![image](https://github.com/user-attachments/assets/03f077e4-1a71-474a-9722-0b3698cb7cf6)
+
 
 
