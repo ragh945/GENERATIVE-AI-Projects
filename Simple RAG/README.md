@@ -21,6 +21,7 @@
 ## Objective
 To create an AI-powered assistant that extracts, retrieves, and summarizes key insights from research papers, enabling faster and more efficient academic exploration. 
 
+## Deployment Link : https://huggingface.co/spaces/Raghu645/SImple_RAG
 ## Deployment Screenshot : ![image](https://github.com/user-attachments/assets/93a853e5-2555-4512-8700-dbab6dab92af)
 
 
